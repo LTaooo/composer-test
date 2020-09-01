@@ -1,0 +1,11 @@
+{
+    "name": "ltaoo/composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ltaoo",
+            "email": "gg.cn.lt@gmail.com"
+        }
+    ],
+    "require": {}
+}
